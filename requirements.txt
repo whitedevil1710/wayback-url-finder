@@ -1,0 +1,2 @@
+colorama==0.4.4
+prompt-toolkit==3.0.20
