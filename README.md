@@ -13,8 +13,10 @@ To embark on this time-traveling adventure, make sure you have the following pre
 - `prompt_toolkit` library
 ## Installation
 ```
-
+git clone https://github.com/whitedevil1710/wayback-url-finder.git
+cd wayback-url-finder
 pip3 install -r requirements.txt
+python3 wdfinder.py
 ```
 
 ## How to Use
