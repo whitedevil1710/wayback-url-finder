@@ -11,6 +11,11 @@ To embark on this time-traveling adventure, make sure you have the following pre
 - `colorama` library
 - `readline` module
 - `prompt_toolkit` library
+## Installation
+```
+
+pip3 install -r requirements.txt
+```
 
 ## How to Use
 
